@@ -1,7 +1,7 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript      
-NAME:N.NAVYA SREE    
-REG.NO:212223040138
+NAME:RAHUL B    
+REG.NO:212222220032
 
 # AIM:
 To execute Windows basic commands and batch scripting
